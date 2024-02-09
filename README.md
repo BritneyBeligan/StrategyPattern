@@ -48,6 +48,10 @@ public class Character {
         } else if (type.equals("Wizard")) {
             System.out.println("Creating a magic barrier for defense!"");
         } else if (type.equals("Archer")) {
+
+![Blank diagram](https://github.com/BritneyBeligan/StrategyPattern/assets/142373706/bc04ef71-be22-4d36-bbdd-c0d459525732)
+
+ 
             System.out.println("Using a shield to defend!"");
         }
     }
